@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  font-family: "Rubik", sans-serif;
 }
 .menu {
   width: 40%;
@@ -308,14 +309,14 @@ span {
 }
 @media (max-width: 400px) {
   nav {
-    padding-left: 15px;
+    padding-left: 50px;
   }
   .obwi {
     display: block;
   }
   .obwi h1 {
     display: flex;
-    margin-left: 15px;
+    margin-left: 50px;
   }
   .menu li {
     display: none;
@@ -405,6 +406,7 @@ span {
   }
   .gaz img {
     margin: 0;
+    margin-left: 150px;
   }
   .gaz {
     display: block;
